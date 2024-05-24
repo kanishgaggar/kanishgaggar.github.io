@@ -6,8 +6,8 @@ permalink: /about/
 
 <img src="/images/photo.jpg" alt="drawing" width="220"/>
 
-I am software developer by profession.
+I am an investment research analyst by profession.
 
-Area of Interest : Computational Geometry, Computer Graphics, GPGPU, Computer Vision, Machine Learning
+Area of Interest : Equity research, debt research, economics
 
-Contact: himanshusharma.sh7@gmail.com
+Contact: kanisshka09@gmail.com
